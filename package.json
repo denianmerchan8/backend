@@ -1,0 +1,22 @@
+{
+  "name": "calbackend",
+  "version": "0.0.1",
+  "description": "back end para calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calculadora",
+    "api",
+    "backend"
+  ],
+  "author": "denian merchan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
