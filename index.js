@@ -59,6 +59,7 @@ app.post(
         const resultado=parseFloat(numero_1)*parseFloat(numero_2);
 
         res.json(resultado);
+    
     }
 
 
